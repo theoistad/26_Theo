@@ -1,3 +1,13 @@
 # 26_Theo
 Dette er min egen (Theo Lindstadhagen) repository på GitHubDette er min egen (Theo Lindstadhagen) repository på GitHub
-<img src="telefon.jpg">
+<img src="jorden.png" class="jorden">
+<html>
+    <style>
+    .jorden{
+    max-width: 200px;
+    transition: 1s;
+}
+    .jorden:hover{
+    transform: scale(1.05);
+    filter: drop-shadow(3px 20px 3px rgba(0, 0, 0, 0.9));
+}
