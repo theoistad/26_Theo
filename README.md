@@ -11,3 +11,4 @@ Dette er min egen (Theo Lindstadhagen) repository på GitHubDette er min egen (T
     transform: scale(1.05);
     filter: drop-shadow(3px 20px 3px rgba(0, 0, 0, 0.9));
 }
+    <style>
