@@ -1,0 +1,30 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+ul{
+    background-color: rgb(88, 86, 109);
+    color: white;
+    max-width: 500px;
+    padding: 20px;
+    border-radius: 20px;
+    border: tomato;
+    border-style: solid;
+}
+
+li{
+    margin: 20px;
+}
+
+.Forklaring{
+text-align:center
+}
+
+.lorem{
+    padding: 20px;
+}
